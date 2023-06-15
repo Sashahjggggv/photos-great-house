@@ -124,10 +124,10 @@
     <rect width="99" height="102" transform="matrix(-1 0 0 1 1752 1150)" fill="#9EFF00" fill-opacity="0.5"/>
     <rect width="60" height="80" transform="matrix(-1 0 0 1 1653 1172)" fill="#9EFF00" fill-opacity="0.5"/>
     <rect width="130" height="177" transform="matrix(-1 0 0 1 1653 995)" fill="#9EFF00" fill-opacity="0.5"/>
-  </g>
-  <g>
     <rect width="114" height="72" transform="matrix(-1 0 0 1 1645 923)" fill="#9EFF00" fill-opacity="0.5"/>
     <rect width="8" height="56" transform="matrix(-1 0 0 1 1653 939)" fill="#9EFF00" fill-opacity="0.5"/>
+  </g>
+  <g>
     <rect x="1841" y="1338" width="126" height="180" fill="#9EFF00" fill-opacity="0.5"/>
     <rect x="1962.43" y="1305.18" width="44.9817" height="46.7021" transform="rotate(45 1962.43 1305.18)" fill="#9EFF00" fill-opacity="0.5"/>
     <rect x="1841" y="1254" width="88" height="84.0161" fill="#9EFF00" fill-opacity="0.5"/>
