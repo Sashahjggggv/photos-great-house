@@ -1,6 +1,6 @@
 <svg width="3014" height="1583" viewBox="0 0 3014 1583" fill="none" xmlns="http://www.w3.org/2000/svg">
   <g class="entrance 1">
-    <g class="apartment 29">
+    <g class="apartment" data-apartment-id="29">
       <g class="room 1">
         <rect x="806" y="1151" width="85" height="101" fill="#9EFF00" fill-opacity="0.5"/>
         <rect x="742" y="1171" width="64" height="81" fill="#9EFF00" fill-opacity="0.5"/>
@@ -24,7 +24,7 @@
         <rect x="780" y="939" width="26" height="46" fill="#9EFF00" fill-opacity="0.5"/>
       </g>
     </g>
-    <g class="apartment 30">
+    <g class="apartment" data-apartment-id="30">
       <g class="room 1">
         <rect x="637" y="1252" width="48" height="110" fill="#9EFF00" fill-opacity="0.5"/>
         <rect x="685" y="1252" width="28" height="63" fill="#9EFF00" fill-opacity="0.5"/>
@@ -41,7 +41,7 @@
         <rect x="713" y="1252" width="115" height="63" fill="#9EFF00" fill-opacity="0.5"/>
       </g>
     </g>
-    <g class="apartment 31">
+    <g class="apartment" data-apartment-id="31">
       <g class="room 1">
         <path d="M266 1323C333.333 1323 400.667 1323 468 1323C468 1299.33 468 1275.67 468 1252C400.667 1252 333.333 1252 266 1252C266 1275.67 266 1299.33 266 1323Z" fill="#9EFF00" fill-opacity="0.5"/>
       </g>
@@ -61,7 +61,7 @@
         <path d="M0 1417V1582H133H266V1542V1502H173.9H81.8L82.5 1377L83.3 1252H41.6H0V1417Z" fill="#9EFF00" fill-opacity="0.5"/>
       </g>
     </g>
-    <g class="apartment 32">
+    <g class="apartment" data-apartment-id="32">
       <g class="room 1">
         <rect x="151" y="1180" width="213" height="72" fill="#9EFF00" fill-opacity="0.5"/>
         <rect x="295" y="1120" width="47" height="60" fill="#9EFF00" fill-opacity="0.5"/>
@@ -85,7 +85,7 @@
     </g>
   </g>
   <g class="entrance 2">
-    <g class="apartment 61">
+    <g class="apartment" data-apartment-id="61">
       <g class="room 1">
         <rect width="99" height="102" transform="matrix(-1 0 0 1 1752 1150)" fill="#9EFF00" fill-opacity="0.5"/>
         <rect width="60" height="80" transform="matrix(-1 0 0 1 1653 1172)" fill="#9EFF00" fill-opacity="0.5"/>
@@ -109,7 +109,7 @@
         <rect width="8" height="56" transform="matrix(-1 0 0 1 1653 939)" fill="#9EFF00" fill-opacity="0.5"/>
       </g>
     </g>
-    <g class="apartment 62">
+    <g class="apartment" data-apartment-id="62">
       <g class="room 1">
         <rect width="74.383" height="62" transform="matrix(-1 0 0 1 1561.55 1252)" fill="#9EFF00" fill-opacity="0.5"/>
         <rect width="53.8298" height="50" transform="matrix(-1 0 0 1 1541 1314)" fill="#9EFF00" fill-opacity="0.5"/>
@@ -127,7 +127,7 @@
         <rect width="132" height="62" transform="matrix(-1 0 0 1 1673 1518)" fill="#9EFF00" fill-opacity="0.5"/>
       </g>
     </g>
-    <g class="apartment 63">
+    <g class="apartment" data-apartment-id="63">
       <g class="room 1">
         <rect x="1241" y="1252" width="76" height="62" fill="#9EFF00" fill-opacity="0.5"/>
         <rect x="1262" y="1314" width="55" height="50" fill="#9EFF00" fill-opacity="0.5"/>
@@ -145,7 +145,7 @@
         <rect x="1130" y="1518" width="132" height="62" fill="#9EFF00" fill-opacity="0.5"/>
       </g>
     </g>
-    <g class="apartment 64">
+    <g class="apartment" data-apartment-id="64">
       <g class="room 1">
         <rect x="1064" y="1150" width="99" height="102" fill="#9EFF00" fill-opacity="0.5"/>
         <rect x="1163" y="1172" width="60" height="80" fill="#9EFF00" fill-opacity="0.5"/>
@@ -171,7 +171,7 @@
     </g>
   </g>
   <g class="entrance 3">
-    <g class="apartment 100">
+    <g class="apartment" data-apartment-id="100">
       <g class="room 1">
         <rect x="2637" y="1095" width="150" height="48" fill="#9EFF00" fill-opacity="0.5"/>
         <rect x="2637" y="1143" width="102" height="111" fill="#9EFF00" fill-opacity="0.5"/>
@@ -197,7 +197,7 @@
         <rect x="2933" y="1282" width="81" height="139" fill="#9EFF00" fill-opacity="0.5"/>
       </g>
     </g>
-    <g class="apartment 101">
+    <g class="apartment" data-apartment-id="101">
       <g class="room 1">
         <rect x="2491" y="1254" width="48" height="110" fill="#9EFF00" fill-opacity="0.5"/>
         <rect x="2539" y="1254" width="28" height="63" fill="#9EFF00" fill-opacity="0.5"/>
@@ -214,7 +214,7 @@
         <rect x="2567" y="1254" width="115" height="63" fill="#9EFF00" fill-opacity="0.5"/>
       </g>
     </g>
-    <g class="apartment 102">
+    <g class="apartment" data-apartment-id="102">
       <g class="room 1">
         <rect width="48" height="110" transform="matrix(-1 0 0 1 2315 1254)" fill="#9EFF00" fill-opacity="0.5"/>
         <rect width="28" height="63" transform="matrix(-1 0 0 1 2267 1254)" fill="#9EFF00" fill-opacity="0.5"/>
@@ -231,7 +231,7 @@
         <rect width="115" height="63" transform="matrix(-1 0 0 1 2239 1254)" fill="#9EFF00" fill-opacity="0.5"/>
       </g>
     </g>
-    <g class="apartment 103">
+    <g class="apartment" data-apartment-id="103">
       <g class="room 1">
         <rect x="1995.02" y="1272" width="45.1939" height="46.7021" transform="rotate(45 1995.02 1272)" fill="#9EFF00" fill-opacity="0.5"/>
         <rect x="1971" y="1254" width="153" height="60" fill="#9EFF00" fill-opacity="0.5"/>
@@ -252,7 +252,7 @@
         <rect x="1967" y="1363.8" width="70.4264" height="35.6396" transform="rotate(-45 1967 1363.8)" fill="#9EFF00" fill-opacity="0.5"/>
       </g>
     </g>
-    <g class="apartment 104">
+    <g class="apartment" data-apartment-id="104">
       <g class="room 1">
         <rect x="1959" y="1119" width="86" height="135" fill="#9EFF00" fill-opacity="0.5"/>
         <rect x="2045" y="1119" width="110" height="56" fill="#9EFF00" fill-opacity="0.5"/>
@@ -277,7 +277,7 @@
     </g>
   </g>
   <g class="entrance 4">
-    <g class="apartment 140">
+    <g class="apartment" data-apartment-id="140">
       <g class="room 1">
         <rect x="2527" y="566" width="79" height="90" fill="#9EFF00" fill-opacity="0.5"/>
       </g>
@@ -294,7 +294,7 @@
         <rect x="2308" y="615" width="80" height="145" fill="#9EFF00" fill-opacity="0.5"/>
       </g>
     </g>
-    <g class="apartment 141">
+    <g class="apartment" data-apartment-id="141">
       <g class="room 1">
         <rect x="2526" y="302" width="80" height="44" fill="#9EFF00" fill-opacity="0.5"/>
         <rect x="2553" y="256" width="53" height="46" fill="#9EFF00" fill-opacity="0.5"/>
@@ -318,7 +318,7 @@
         <rect x="2625" y="179" width="60" height="77" fill="#9EFF00" fill-opacity="0.5"/>
       </g>
     </g>
-    <g class="apartment 142">
+    <g class="apartment" data-apartment-id="142">
       <g class="room 1">
         <rect x="2685" y="370" width="48" height="110" transform="rotate(-90 2685 370)" fill="#9EFF00" fill-opacity="0.5"/>
         <rect x="2685" y="322" width="28" height="63" transform="rotate(-90 2685 322)" fill="#9EFF00" fill-opacity="0.5"/>
@@ -335,7 +335,7 @@
         <rect x="2685" y="294" width="115" height="63" transform="rotate(-90 2685 294)" fill="#9EFF00" fill-opacity="0.5"/>
       </g>
     </g>
-    <g class="apartment 143">
+    <g class="apartment" data-apartment-id="143">
       <g class="room 1">
         <rect width="47.1398" height="110" transform="matrix(0 1 1 0 2685 544.423)" fill="#9EFF00" fill-opacity="0.5"/>
         <rect width="27.4982" height="63" transform="matrix(0 1 1 0 2685 591.563)" fill="#9EFF00" fill-opacity="0.5"/>
@@ -352,7 +352,7 @@
         <rect width="115" height="63" transform="matrix(0 1 1 0 2685 619)" fill="#9EFF00" fill-opacity="0.5"/>
       </g>
     </g>
-    <g class="apartment 144">
+    <g class="apartment" data-apartment-id="144">
       <g class="room 1">
         <rect x="2685" y="922.89" width="46.969" height="110" transform="rotate(-90 2685 922.89)" fill="#9EFF00" fill-opacity="0.5"/>
         <rect x="2685" y="875.921" width="27.3986" height="63" transform="rotate(-90 2685 875.921)" fill="#9EFF00" fill-opacity="0.5"/>
