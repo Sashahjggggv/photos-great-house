@@ -386,7 +386,6 @@
         </g>
       </g>
     </g>
-  </g>
 <line x1="554.5" y1="1518" x2="554.5" y2="1252" stroke="#9EFF00" stroke-width="7"/>
 <line x1="72" y1="1336.5" x2="212" y2="1336.5" stroke="#9EFF00" stroke-width="7"/>
 <line x1="210.5" y1="1340" x2="210.5" y2="1252" stroke="#9EFF00" stroke-width="7"/>
@@ -509,4 +508,5 @@
 <line x1="69.5" y1="1267" x2="69.5" y2="1519" stroke="#9EFF00" stroke-width="7"/>
 <line x1="66" y1="1515.5" x2="258" y2="1515.5" stroke="#9EFF00" stroke-width="7"/>
 <line x1="261.5" y1="1519" x2="261.5" y2="1583" stroke="#9EFF00" stroke-width="7"/>
+  </g>
 </svg>
